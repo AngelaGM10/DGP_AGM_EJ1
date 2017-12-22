@@ -19,3 +19,6 @@ def restacuadrados(a,b):
     return (a**2)-(b**2)
 
 >>>>>>> He añadido la función restacuadrados
+
+#Añado este comentario para hacer el apartado 4 de la segunda parte del
+# ejercicio 1B
